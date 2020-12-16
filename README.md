@@ -1,1 +1,2 @@
-# java-swing
+# Contest Management System
+Made with Java(Swing)
